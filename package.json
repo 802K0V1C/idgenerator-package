@@ -1,6 +1,6 @@
 {
   "name": "@arturhubert/randomid-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:802K0V1C/idgenerator-package.git",
   "author": "Artur Bożek <arturhubert.bozek@gmail.com>",
